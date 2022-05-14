@@ -1,2 +1,2 @@
 # C-Graphs-1
- creating graph with struct 
+Creating a simple graph with a struct
